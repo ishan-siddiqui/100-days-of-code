@@ -1,5 +1,15 @@
 # 100-days-of-code
 
+### Day 3: May 22, 2024
+
+**Today's Progress**: 
+- Learnt about Database sharding, difference between horizontal and vertical partitioning, along with drawbacks of sharding and how to overcome them
+- System Design of Tinder
+
+**Thoughts:** prepared how to ans database sharding related questions during interview, However, solving a complete system design question like tinder design still feels like I need a few more days to brush up my skills before I can do that effortlessly for interview.
+
+**Link to Video:** https://youtu.be/tndzLznxq40?feature=shared
+
 ### Day 2: May 21, 2024
 
 **Today's Progress**: Revised the OSI model, learnt how to define session and presentation layer for interviews...
