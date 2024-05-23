@@ -1,5 +1,13 @@
 # 100-days-of-code
 
+### Day 4: May 23, 2024
+
+**Today's Progress**: 
+- Learnt about Distributed Cache, it's use cases and cache policies, addressed the cache consistency problem, thrashing
+- Studied about API design, points to keep in mind for good API design, understood how optimisation might sometimes lead to a poor design, understood that HTTP is a stateless protocol and how endpoints/systems expose their APIs using HTTP.
+
+**Link to Video:** https://youtu.be/_YlYuNMTCc8?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+
 ### Day 3: May 22, 2024
 
 **Today's Progress**: 
