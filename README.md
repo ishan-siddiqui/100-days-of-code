@@ -1,5 +1,16 @@
 # 100-days-of-code
 
+### Day 5: May 26th, 2024
+
+**Today's Progress**: 
+- Learnt about the fundamental cloud services that one essentially needs
+- Spent the last 2 days wrapping up my last reports for college.
+
+**Thoughts:** Realised how Cloud services actually function - while some of the services are definitely creative solution, a lot of them are essentially just wrapper classes of the infrastructure and other open source technologies, all have been abstracted somewhere away from the user so that the developer does not have to worry about those complications while scaling their product or application.
+
+
+**Link to Video:** https://www.youtube.com/watch?v=gcfB8iIPtbY
+
 ### Day 4: May 23, 2024
 
 **Today's Progress**: 
