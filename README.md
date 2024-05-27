@@ -1,5 +1,15 @@
 # 100-days-of-code
 
+### Day 6: May 27th, 2024
+
+**Today's Progress**: 
+- Solved 5 DSA Questions on Sliding Window and Kadane's Algorithm-
+- LC 53. Maximum Subarray
+- LC 918. Maximum Sum Circular Subarray
+- LC 978. Longest Turbulent Subarray
+- LC 219. Contains Duplicate II
+- LC 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
+
 ### Day 5: May 26th, 2024
 
 **Today's Progress**: 
